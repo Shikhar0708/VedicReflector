@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Security Tool](https://img.shields.io/badge/Category-Offensive%20Security-red.svg)
-![Maintainer](https://img.shields.io/badge/Maintainer-Shikhar%20Kant%20Sinha-blueviolet.svg)
+![Maintainer](https://img.shields.io/badge/Maintainer-VEDIC/DEVIC-blueviolet.svg)
 
 # VXSS — Vedic Reflector  
 ### A lightweight reflected XSS scanner with multi-payload detection and a clean offensive-security CLI.
