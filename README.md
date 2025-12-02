@@ -49,25 +49,12 @@ Example:
 
 ```bash
 python3 main.py http://sudo.co.il/xss/level0.php
-Sample output:
 ```
-┌────────────────────────┐
-│          VXSS          │
-└────────────────────────┘
+Sample output:
 
-Vedic Reflector • AUTHOR: VEDIC/DEVIC
+<img width="490" height="353" alt="test" src="https://github.com/user-attachments/assets/662aa7d3-fbef-4942-9434-6b8e994247c2" />
 
-[+] Target: http://sudo.co.il/xss/level0.php
-
-[+] Query Parameter Testing
-    [-] No reflected parameters.
-
-[+] Found 1 form(s)
-
-[+] Form: http://sudo.co.il/xss/level0.php
-    [!] email → html, svg, attr, js
-
-🧩 Project Structure
+## 🧩 Project Structure
 
 graphql
 Copy code
