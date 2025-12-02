@@ -82,7 +82,7 @@ VXSS tests multiple reflected XSS contexts using different payload vectors:
 
 ## 🛤 Roadmap (Upcoming)
 
-- [ ] Crawler for multi-page scanning  
+- [✔] Crawler for multi-page scanning  
 - [ ] HTML / Markdown report generation  
 - [ ] CLI arguments (e.g., `--url`, `--crawl`, `--verbose`)  
 - [ ] JSON / API request scanning  
